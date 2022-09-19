@@ -1,0 +1,9 @@
+repeat (4) {
+    paintWhite ()
+    repeat (2) {
+    left ()
+    forward (1)
+}
+    left ()
+    forward (4)
+}
